@@ -1,0 +1,111 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>QSQANDA – APC MC</title>
+  <style>
+    body { font-family: Arial; max-width: 700px; margin: 40px auto; padding: 20px; }
+    select, button { padding: 10px; font-size: 16px; margin-top: 10px; }
+    .question { margin: 20px 0; }
+    .options button {
+      display: block;
+      margin: 8px 0;
+      padding: 10px;
+      width: 100%;
+    }
+    .feedback { margin-top: 10px; font-weight: bold; }
+    .score { margin-top: 30px; font-size: 18px; font-weight: bold; }
+    footer { font-size: 0.9em; color: #888; margin-top: 60px; border-top: 1px solid #ccc; padding-top: 20px; }
+  </style>
+</head>
+<body>
+  <h1>QSQANDA – APC MC Practice</h1>
+
+  <label for="competence">Choose Competence:</label>
+  <select id="competence">
+    <option value="ethics">Ethics</option>
+  </select>
+  <button onclick="startQuiz()">Start Quiz</button>
+
+  <div id="quiz" style="margin-top: 30px;"></div>
+  <div class="score" id="scoreboard"></div>
+
+  <footer>
+    Disclaimer: This site is created for practice purposes only and is not affiliated with or endorsed by RICS.
+    All questions are for informal learning and carry no guarantee of accuracy or completeness.
+    You are responsible for verifying any information before relying on it professionally.
+  </footer>
+
+  <script>
+    let questions = [], current = 0, correct = 0, total = 0, finished = false;
+
+    function startQuiz() {
+      const selected = document.getElementById("competence").value;
+      fetch("apc_mc_ethics_100_questions.json")
+        .then(res => res.json())
+        .then(data => {
+          questions = shuffle([...data[selected]]);
+          current = 0;
+          correct = 0;
+          total = 0;
+          finished = false;
+          showQuestion();
+        });
+    }
+
+    function shuffle(array) {
+      for (let i = array.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [array[i], array[j]] = [array[j], array[i]];
+      }
+      return array;
+    }
+
+    function showQuestion() {
+      const q = questions[current];
+      const quizDiv = document.getElementById("quiz");
+      document.getElementById("scoreboard").innerHTML = "";
+      quizDiv.innerHTML = `
+        <div class="question"><strong>Q${current + 1} of ${questions.length}: ${q.question}</strong></div>
+        <div class="options">
+          ${q.options.map(option => `
+            <button onclick="checkAnswer('${option.replace(/'/g, "\'")}', '${q.answer.replace(/'/g, "\'")}', '${q.explanation.replace(/'/g, "\'")}')">${option}</button>
+          `).join('')}
+        </div>
+        <div class="feedback" id="feedback"></div>
+        <button onclick="finishQuiz()">Finish</button>
+      `;
+    }
+
+    function checkAnswer(selected, answer, explanation) {
+      const feedback = document.getElementById("feedback");
+      total++;
+      if (selected === answer) {
+        correct++;
+        feedback.innerHTML = `✅ Correct!<br><small>${explanation}</small>`;
+        feedback.style.color = "green";
+      } else {
+        feedback.innerHTML = `❌ Incorrect.<br><small>${explanation}</small>`;
+        feedback.style.color = "red";
+      }
+
+      setTimeout(() => {
+        current++;
+        if (!finished && current < questions.length) {
+          showQuestion();
+        } else if (!finished) {
+          finishQuiz();
+        }
+      }, 1200);
+    }
+
+    function finishQuiz() {
+      finished = true;
+      document.getElementById("quiz").innerHTML = `<p>🎉 Quiz complete!</p>`;
+      document.getElementById("scoreboard").innerText =
+        `✅ Correct: ${correct}    ❌ Incorrect: ${total - correct}    Total: ${total}`;
+    }
+  </script>
+</body>
+</html>
