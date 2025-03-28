@@ -1,13 +1,56 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>QSQANDA – APC MC Practice</title>
+  <meta charset="UTF-8">
+  <title>QSQANDA – APC MC</title>
+  <style>
+    body { font-family: Arial; padding: 40px; max-width: 600px; margin: auto; }
+    h1 { color: #002244; }
+    .question { margin: 20px 0; }
+    .options button {
+      display: block;
+      margin: 8px 0;
+      padding: 10px;
+      width: 100%;
+    }
+    .feedback { margin-top: 15px; font-weight: bold; }
+  </style>
 </head>
-<body style="font-family:sans-serif; text-align:center; padding:40px;">
-  <h1>QSQANDA</h1>
-  <h2>APC MC Practice Site</h2>
-  <p>This is a simple prototype. Full site coming soon!</p>
+<body>
+  <h1>QSQANDA – APC MC Practice</h1>
+  <div id="quiz">
+    <p>Loading question...</p>
+  </div>
+
+  <script>
+    fetch("apc_mc_sample_questions.json")
+      .then(res => res.json())
+      .then(data => {
+        const questions = data.ethics;
+        const q = questions[0];
+
+        const quizDiv = document.getElementById("quiz");
+        quizDiv.innerHTML = `
+          <div class="question"><strong>${q.question}</strong></div>
+          <div class="options">
+            ${q.options.map(option =>
+              `<button onclick="checkAnswer(this, '${option}', '${q.answer}', '${q.explanation}')">${option}</button>`
+            ).join('')}
+          </div>
+          <div id="feedback" class="feedback"></div>
+        `;
+      });
+
+    function checkAnswer(btn, selected, correct, explanation) {
+      const feedback = document.getElementById("feedback");
+      if (selected === correct) {
+        feedback.innerHTML = "✅ Correct!<br><small>" + explanation + "</small>";
+        feedback.style.color = "green";
+      } else {
+        feedback.innerHTML = "❌ Incorrect.<br><small>" + explanation + "</small>";
+        feedback.style.color = "red";
+      }
+    }
+  </script>
 </body>
 </html>
