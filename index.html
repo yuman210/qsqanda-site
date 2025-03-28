@@ -35,7 +35,7 @@
 
     function startQuiz() {
       const selected = document.getElementById("competence").value;
-      fetch("apc_mc_ethics_clientcare_demo.json")
+      fetch("apc_mc_ethics_100_questions.json")
         .then(res => res.json())
         .then(data => {
           questions = data[selected];
