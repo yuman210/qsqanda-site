@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
+  <meta charset="UTF-8" />
   <title>QSQANDA – APC MC</title>
   <style>
-    body { font-family: Arial; padding: 40px; max-width: 600px; margin: auto; }
-    h1 { color: #002244; }
+    body { font-family: Arial; max-width: 700px; margin: 40px auto; padding: 20px; }
+    select, button { padding: 10px; font-size: 16px; margin-top: 10px; }
     .question { margin: 20px 0; }
     .options button {
       display: block;
@@ -13,43 +13,76 @@
       padding: 10px;
       width: 100%;
     }
-    .feedback { margin-top: 15px; font-weight: bold; }
+    .feedback { margin-top: 10px; font-weight: bold; }
+    .score { margin-top: 30px; font-size: 18px; font-weight: bold; }
   </style>
 </head>
 <body>
   <h1>QSQANDA – APC MC Practice</h1>
-  <div id="quiz">
-    <p>Loading question...</p>
-  </div>
+
+  <label for="competence">Choose Competence:</label>
+  <select id="competence">
+    <option value="ethics">Ethics</option>
+    <option value="client_care">Client Care</option>
+  </select>
+  <button onclick="startQuiz()">Start Quiz</button>
+
+  <div id="quiz" style="margin-top: 30px;"></div>
+  <div class="score" id="scoreboard"></div>
 
   <script>
-    fetch("apc_mc_sample_questions.json")
-      .then(res => res.json())
-      .then(data => {
-        const questions = data.ethics;
-        const q = questions[0];
+    let questions = [], current = 0, correct = 0, total = 0;
 
-        const quizDiv = document.getElementById("quiz");
-        quizDiv.innerHTML = `
-          <div class="question"><strong>${q.question}</strong></div>
-          <div class="options">
-            ${q.options.map(option =>
-              `<button onclick="checkAnswer(this, '${option}', '${q.answer}', '${q.explanation}')">${option}</button>`
-            ).join('')}
-          </div>
-          <div id="feedback" class="feedback"></div>
-        `;
-      });
+    function startQuiz() {
+      const selected = document.getElementById("competence").value;
+      fetch("apc_mc_ethics_clientcare_demo.json")
+        .then(res => res.json())
+        .then(data => {
+          questions = data[selected];
+          current = 0;
+          correct = 0;
+          total = 0;
+          showQuestion();
+        });
+    }
 
-    function checkAnswer(btn, selected, correct, explanation) {
+    function showQuestion() {
+      const q = questions[current];
+      const quizDiv = document.getElementById("quiz");
+      document.getElementById("scoreboard").innerHTML = "";
+      quizDiv.innerHTML = `
+        <div class="question"><strong>Q${current + 1}: ${q.question}</strong></div>
+        <div class="options">
+          ${q.options.map(option => `
+            <button onclick="checkAnswer('${option.replace(/'/g, "\\'")}', '${q.answer.replace(/'/g, "\\'")}', '${q.explanation.replace(/'/g, "\\'")}')">${option}</button>
+          `).join('')}
+        </div>
+        <div class="feedback" id="feedback"></div>
+      `;
+    }
+
+    function checkAnswer(selected, answer, explanation) {
       const feedback = document.getElementById("feedback");
-      if (selected === correct) {
-        feedback.innerHTML = "✅ Correct!<br><small>" + explanation + "</small>";
+      total++;
+      if (selected === answer) {
+        correct++;
+        feedback.innerHTML = `✅ Correct!<br><small>${explanation}</small>`;
         feedback.style.color = "green";
       } else {
-        feedback.innerHTML = "❌ Incorrect.<br><small>" + explanation + "</small>";
+        feedback.innerHTML = `❌ Incorrect.<br><small>${explanation}</small>`;
         feedback.style.color = "red";
       }
+
+      setTimeout(() => {
+        current++;
+        if (current < questions.length) {
+          showQuestion();
+        } else {
+          document.getElementById("quiz").innerHTML = `<p>🎉 Quiz complete!</p>`;
+          document.getElementById("scoreboard").innerText =
+            `✅ Correct: ${correct}    ❌ Incorrect: ${total - correct}    Total: ${total}`;
+        }
+      }, 1500);
     }
   </script>
 </body>
