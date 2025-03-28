@@ -1,0 +1,1304 @@
+{
+  "ethics": [
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "What is the primary purpose of the RICS Rules of Conduct?",
+      "options": [
+        "To increase RICS membership",
+        "To provide a framework for disciplinary action",
+        "To ensure public trust and professional standards",
+        "To manage client fees"
+      ],
+      "answer": "To ensure public trust and professional standards",
+      "explanation": "The Rules of Conduct exist to uphold public trust and maintain professional integrity across the profession."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "How many Rules of Conduct for Members were introduced in the 2023 update?",
+      "options": [
+        "3",
+        "5",
+        "6",
+        "7"
+      ],
+      "answer": "6",
+      "explanation": "There are 6 updated Rules of Conduct for Members, introduced in February 2023."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "Under the Rules of Conduct, what must a regulated member always prioritise?",
+      "options": [
+        "Client expectations",
+        "Employer profits",
+        "Public interest",
+        "Legal loopholes"
+      ],
+      "answer": "Public interest",
+      "explanation": "RICS rules require members to act in a way that upholds the wider public interest."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "Which of the following is not a Rule of Conduct for Members?",
+      "options": [
+        "Act with integrity",
+        "Provide a free service",
+        "Maintain professional competence",
+        "Treat others with respect"
+      ],
+      "answer": "Provide a free service",
+      "explanation": "Providing a free service is not a requirement under the Rules of Conduct."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "If a member becomes bankrupt, what must they do according to the Rules of Conduct?",
+      "options": [
+        "Quit RICS",
+        "Inform their clients only",
+        "Report it to RICS promptly",
+        "Ignore unless someone complains"
+      ],
+      "answer": "Report it to RICS promptly",
+      "explanation": "Members must inform RICS of any significant events that could affect their ability to practise professionally."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "What is the purpose of the 'RICS Standards and Regulation Board'?",
+      "options": [
+        "To write new textbooks",
+        "To manage fee disputes",
+        "To set and enforce RICS standards",
+        "To train university students"
+      ],
+      "answer": "To set and enforce RICS standards",
+      "explanation": "The Standards and Regulation Board is responsible for setting and upholding professional standards."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "A member who fails to comply with the Rules of Conduct may face:",
+      "options": [
+        "A fine from HMRC",
+        "Expulsion from RICS",
+        "Promotion to senior member",
+        "No consequences"
+      ],
+      "answer": "Expulsion from RICS",
+      "explanation": "Failure to follow the rules may result in disciplinary action, including expulsion from RICS."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "What does 'acting with integrity' mean under the RICS Rules of Conduct?",
+      "options": [
+        "Always agreeing with the client",
+        "Following your company\u2019s policy only",
+        "Being honest, fair, and trustworthy",
+        "Maximising profits"
+      ],
+      "answer": "Being honest, fair, and trustworthy",
+      "explanation": "Integrity is about honesty, fairness, and upholding ethical standards at all times."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "Which body within RICS is responsible for investigating breaches of conduct?",
+      "options": [
+        "UK Government",
+        "The Royal Family",
+        "RICS Regulation",
+        "CPD Committee"
+      ],
+      "answer": "RICS Regulation",
+      "explanation": "RICS Regulation investigates complaints and enforces compliance with the Rules of Conduct."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "What is the scope of the Rules of Conduct?",
+      "options": [
+        "Only UK-based members",
+        "Only chartered surveyors",
+        "All RICS members and regulated firms worldwide",
+        "Only construction professionals"
+      ],
+      "answer": "All RICS members and regulated firms worldwide",
+      "explanation": "The rules apply to all RICS members and firms globally, regardless of location."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "What does \u201cprofessionalism\u201d mean in the context of RICS membership?",
+      "options": [
+        "Always agreeing with your client",
+        "Wearing formal clothing",
+        "Acting competently and ethically at all times",
+        "Following your manager\u2019s instructions without question"
+      ],
+      "answer": "Acting competently and ethically at all times",
+      "explanation": "Professionalism means upholding ethical behaviour, competence, and acting in the public interest."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "A client asks you to overlook a minor safety issue. How should a professional member respond?",
+      "options": [
+        "Agree to maintain client relationship",
+        "Ignore the issue since it\u2019s minor",
+        "Report it if legally required",
+        "Refuse and explain professional responsibilities"
+      ],
+      "answer": "Refuse and explain professional responsibilities",
+      "explanation": "Members must act professionally and cannot compromise safety or ethical obligations, even under client pressure."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "Which of the following best demonstrates professional behaviour?",
+      "options": [
+        "Prioritising personal gain",
+        "Being transparent and respectful in communication",
+        "Sharing client details with friends",
+        "Delegating all decisions to unqualified staff"
+      ],
+      "answer": "Being transparent and respectful in communication",
+      "explanation": "Respect, transparency, and ethical communication are key to professionalism."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "You make an error in a report submitted to a client. What should you do?",
+      "options": [
+        "Wait to see if the client notices",
+        "Blame a junior staff member",
+        "Admit the error and correct it promptly",
+        "Leave it unchanged to protect your reputation"
+      ],
+      "answer": "Admit the error and correct it promptly",
+      "explanation": "Professionalism involves taking responsibility for your work and correcting mistakes transparently."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "Which principle underpins professional conduct in the RICS framework?",
+      "options": [
+        "Speed",
+        "Efficiency",
+        "Integrity",
+        "Obedience"
+      ],
+      "answer": "Integrity",
+      "explanation": "Integrity is fundamental to professional behaviour in all situations."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "A professional dispute arises with a colleague. What is the appropriate approach?",
+      "options": [
+        "Escalate it publicly",
+        "Resolve it respectfully and constructively",
+        "Avoid them and refuse to cooperate",
+        "Involve clients immediately"
+      ],
+      "answer": "Resolve it respectfully and constructively",
+      "explanation": "Professionalism requires mature handling of disputes, including respectful and private resolution."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "Can you act professionally and still breach RICS rules?",
+      "options": [
+        "Yes, professionalism is personal",
+        "No, professionalism requires compliance with all rules",
+        "Only if no one complains",
+        "Yes, if your employer approves"
+      ],
+      "answer": "No, professionalism requires compliance with all rules",
+      "explanation": "Professionalism includes full adherence to RICS standards and rules."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "What should you do if asked to do something you believe is unethical?",
+      "options": [
+        "Do it quietly to avoid trouble",
+        "Escalate to your supervisor or RICS",
+        "Ignore your feelings",
+        "Ask a colleague to do it"
+      ],
+      "answer": "Escalate to your supervisor or RICS",
+      "explanation": "Members should raise concerns through proper channels to maintain ethical standards."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "Which of the following is a key element of professional conduct?",
+      "options": [
+        "Always charging the highest fee",
+        "Loyalty to your employer above all",
+        "Acting impartially and in the public interest",
+        "Working the longest hours"
+      ],
+      "answer": "Acting impartially and in the public interest",
+      "explanation": "Professional conduct includes impartiality and prioritising the public interest."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "Which action may lead to a complaint about unprofessional behaviour?",
+      "options": [
+        "Providing timely and honest advice",
+        "Refusing to take part in unethical activity",
+        "Failing to respond to a client\u2019s query",
+        "Keeping accurate project records"
+      ],
+      "answer": "Failing to respond to a client\u2019s query",
+      "explanation": "Not responding to clients or neglecting duties could be seen as unprofessional and lead to complaints."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "What is the purpose of RICS professional standards and guidance notes?",
+      "options": [
+        "To help members avoid paying tax",
+        "To set out minimum legal requirements",
+        "To promote best practice and consistency",
+        "To limit innovation"
+      ],
+      "answer": "To promote best practice and consistency",
+      "explanation": "RICS standards provide consistent guidance on best practice to ensure quality and professionalism."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "Which of the following is an RICS professional standard document?",
+      "options": [
+        "The Times newspaper",
+        "RICS Valuation \u2013 Global Standards (Red Book)",
+        "UK Government Building Regulations",
+        "CITB Handbook"
+      ],
+      "answer": "RICS Valuation \u2013 Global Standards (Red Book)",
+      "explanation": "The RICS Red Book is a key standard in valuation practice."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "RICS guidance notes are:",
+      "options": [
+        "Mandatory and legally binding",
+        "Optional and for academic use only",
+        "Designed to assist professional judgement",
+        "Only for trainee surveyors"
+      ],
+      "answer": "Designed to assist professional judgement",
+      "explanation": "Guidance notes offer structured advice to support professional decisions and are not legally binding."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "Which type of document sets out mandatory requirements for RICS members?",
+      "options": [
+        "Information papers",
+        "Practice statements",
+        "Research reports",
+        "Technical blogs"
+      ],
+      "answer": "Practice statements",
+      "explanation": "Practice statements include mandatory requirements that RICS members must follow."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "What happens if a member fails to follow a mandatory RICS standard?",
+      "options": [
+        "Nothing, if no one complains",
+        "They may be subject to disciplinary action",
+        "They receive a warning only",
+        "Their employer will be fined"
+      ],
+      "answer": "They may be subject to disciplinary action",
+      "explanation": "Non-compliance with mandatory standards may lead to RICS disciplinary measures."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "What is the difference between a practice statement and a guidance note?",
+      "options": [
+        "One is free, the other paid",
+        "Practice statements are mandatory; guidance notes are advisory",
+        "Guidance notes are for architects only",
+        "There is no difference"
+      ],
+      "answer": "Practice statements are mandatory; guidance notes are advisory",
+      "explanation": "Practice statements are binding, while guidance notes support decision-making."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "Which of the following is an example of poor professional standard?",
+      "options": [
+        "Using current RICS templates",
+        "Preparing valuations based on outdated data",
+        "Following the RICS Red Book",
+        "Undertaking CPD regularly"
+      ],
+      "answer": "Preparing valuations based on outdated data",
+      "explanation": "Using outdated or incorrect data undermines the reliability of your work and breaches professional standards."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "What is the RICS requirement regarding keeping up-to-date with standards?",
+      "options": [
+        "Only partners must stay updated",
+        "Updates are optional unless an issue arises",
+        "All members must stay current with RICS standards",
+        "Only when sitting the APC"
+      ],
+      "answer": "All members must stay current with RICS standards",
+      "explanation": "All RICS members are responsible for maintaining their knowledge of current professional standards."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "Why are professional standards critical in client relationships?",
+      "options": [
+        "To charge higher fees",
+        "To limit liability",
+        "To ensure consistent, ethical, and high-quality service",
+        "To meet government policy"
+      ],
+      "answer": "To ensure consistent, ethical, and high-quality service",
+      "explanation": "Standards give clients confidence that service will be ethical, reliable, and in line with best practice."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "What should you do if a new RICS standard conflicts with your current working practice?",
+      "options": [
+        "Ignore the new standard",
+        "Wait for your manager to change policy",
+        "Adapt your practice to align with the new standard",
+        "Ask a lawyer for advice"
+      ],
+      "answer": "Adapt your practice to align with the new standard",
+      "explanation": "Members must ensure their work reflects current RICS standards, even if it means updating existing practices."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "You are asked to value a property for a client while your family member is negotiating to purchase it. What should you do?",
+      "options": [
+        "Continue the valuation but disclose later",
+        "Refuse the job without explanation",
+        "Disclose the conflict and seek client instructions",
+        "Ignore the situation as it\u2019s not your transaction"
+      ],
+      "answer": "Disclose the conflict and seek client instructions",
+      "explanation": "Members must disclose any actual or perceived conflict of interest and seek guidance or consent from the client."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "A subcontractor invites you to an expensive sports event during tender negotiations. What is the most appropriate action?",
+      "options": [
+        "Accept to maintain a good relationship",
+        "Decline and report the offer",
+        "Accept but keep it secret",
+        "Ask a colleague to attend instead"
+      ],
+      "answer": "Decline and report the offer",
+      "explanation": "Accepting gifts or hospitality that may influence your judgement is a conflict of interest and should be reported."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "You are asked to act for both the landlord and the tenant in a lease negotiation. What should you do?",
+      "options": [
+        "Act for both, but reduce your fees",
+        "Act only if you receive written consent from both parties",
+        "Decline and act for neither",
+        "Act for the landlord only without informing the tenant"
+      ],
+      "answer": "Act only if you receive written consent from both parties",
+      "explanation": "Acting for both parties is only acceptable if both give informed, written consent and no conflict arises."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "You discover your firm is bidding on a project you\u2019re evaluating for another client. What is your responsibility?",
+      "options": [
+        "Do nothing unless asked",
+        "Resign from the evaluation role immediately",
+        "Inform the client of the potential conflict",
+        "Advise your firm to withdraw from bidding"
+      ],
+      "answer": "Inform the client of the potential conflict",
+      "explanation": "Transparency with the client is essential; disclose the situation so they can decide how to proceed."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "Which of the following best defines a 'conflict of interest'?",
+      "options": [
+        "A disagreement between two clients",
+        "A situation where your judgement may be compromised",
+        "A breach of contract",
+        "A delay in project delivery"
+      ],
+      "answer": "A situation where your judgement may be compromised",
+      "explanation": "A conflict of interest arises when your ability to act impartially is compromised or may appear to be compromised."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "You are approached by a competitor of your client asking for project advice. What should you consider first?",
+      "options": [
+        "Whether they offer higher fees",
+        "If your current client would mind",
+        "Any potential conflicts of interest",
+        "How to balance both clients"
+      ],
+      "answer": "Any potential conflicts of interest",
+      "explanation": "You must first assess any actual or perceived conflicts before engaging with a new party."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "You are managing a procurement process and your friend\u2019s company submits a bid. What should you do?",
+      "options": [
+        "Continue but do not favour them",
+        "Declare the relationship and recuse yourself",
+        "Tell your friend not to mention you",
+        "Score their bid lower to avoid suspicion"
+      ],
+      "answer": "Declare the relationship and recuse yourself",
+      "explanation": "To avoid real or perceived bias, you must declare the relationship and remove yourself from the decision-making process."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "Which RICS principle is most relevant to managing conflicts of interest?",
+      "options": [
+        "Respect",
+        "Innovation",
+        "Integrity",
+        "Efficiency"
+      ],
+      "answer": "Integrity",
+      "explanation": "Integrity requires professionals to avoid situations where their judgement could be compromised."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "A developer client asks you to recommend a contractor who previously gave you a referral bonus. What should you do?",
+      "options": [
+        "Recommend the contractor with full disclosure",
+        "Do not recommend anyone",
+        "Recommend without mentioning the bonus",
+        "Pass the job to a colleague"
+      ],
+      "answer": "Recommend the contractor with full disclosure",
+      "explanation": "You must disclose any benefits received that might affect your recommendation, allowing the client to make an informed decision."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "You are offered a performance bonus based on project savings, which may tempt you to cut corners. What\u2019s the best course of action?",
+      "options": [
+        "Accept the bonus and work efficiently",
+        "Reject the bonus and report it",
+        "Discuss the potential conflict with your employer",
+        "Delay accepting the bonus until project ends"
+      ],
+      "answer": "Discuss the potential conflict with your employer",
+      "explanation": "If the bonus could influence your professional judgement, you must raise the issue and seek guidance."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "What is the purpose of registering a firm with RICS?",
+      "options": [
+        "To receive government funding",
+        "To allow the firm to use the RICS logo and be subject to regulation",
+        "To get cheaper insurance",
+        "To avoid audits"
+      ],
+      "answer": "To allow the firm to use the RICS logo and be subject to regulation",
+      "explanation": "Registration allows a firm to identify as RICS regulated and ensures it is subject to professional oversight."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "Who must be responsible for compliance in an RICS-regulated firm?",
+      "options": [
+        "Any employee",
+        "The receptionist",
+        "A responsible principal or contact officer",
+        "The marketing department"
+      ],
+      "answer": "A responsible principal or contact officer",
+      "explanation": "Every regulated firm must appoint a responsible principal to ensure compliance with RICS rules."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "What must an RICS-registered firm display on its website and correspondence?",
+      "options": [
+        "The Royal Coat of Arms",
+        "\u201cRICS Approved\u201d in red font",
+        "A statement that it is \u201cRegulated by RICS\u201d",
+        "The founder's name"
+      ],
+      "answer": "A statement that it is \u201cRegulated by RICS\u201d",
+      "explanation": "RICS-registered firms must clearly state they are \u201cRegulated by RICS\u201d on all relevant materials."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "What is a key requirement for a firm to maintain RICS registration?",
+      "options": [
+        "Submit employee performance reviews",
+        "Pay registration fees and comply with RICS standards",
+        "Host an RICS event every year",
+        "Sponsor a surveyor\u2019s journal"
+      ],
+      "answer": "Pay registration fees and comply with RICS standards",
+      "explanation": "Registered firms must comply with RICS rules and pay their annual fees."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "When must a firm inform RICS about a change in its structure or ownership?",
+      "options": [
+        "Within 30 days",
+        "Only if RICS asks",
+        "Never \u2013 it\u2019s private",
+        "After the next annual review"
+      ],
+      "answer": "Within 30 days",
+      "explanation": "RICS must be informed promptly (usually within 30 days) of material changes in the firm\u2019s structure."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "What happens if a registered firm fails to comply with RICS regulations?",
+      "options": [
+        "The directors receive CPD penalties",
+        "The firm may be deregistered or face disciplinary action",
+        "RICS will send a reminder only",
+        "The firm can re-register in a year"
+      ],
+      "answer": "The firm may be deregistered or face disciplinary action",
+      "explanation": "Non-compliance may result in removal from the register or other disciplinary actions."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "Who can inspect an RICS-registered firm for compliance checks?",
+      "options": [
+        "Only clients",
+        "HMRC",
+        "RICS Regulation team",
+        "The local council"
+      ],
+      "answer": "RICS Regulation team",
+      "explanation": "RICS has the authority to inspect firms to assess compliance with standards."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "What is the RICS requirement regarding Professional Indemnity Insurance (PII) for registered firms?",
+      "options": [
+        "PII is optional for experienced firms",
+        "Only international firms need it",
+        "It is mandatory at all times",
+        "It is only needed for disputes"
+      ],
+      "answer": "It is mandatory at all times",
+      "explanation": "All registered firms must maintain appropriate and continuous PII cover."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "When does a firm\u2019s registration with RICS renew?",
+      "options": [
+        "Automatically every five years",
+        "Every time a new staff member joins",
+        "Annually, subject to compliance",
+        "Only when requested"
+      ],
+      "answer": "Annually, subject to compliance",
+      "explanation": "Registration is subject to annual renewal based on ongoing compliance."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "What is one of the main public benefits of a firm being RICS-registered?",
+      "options": [
+        "The firm receives awards",
+        "Clients can trust that it follows ethical and technical standards",
+        "It gets better marketing tools",
+        "It can avoid legal responsibilities"
+      ],
+      "answer": "Clients can trust that it follows ethical and technical standards",
+      "explanation": "Registration signals to the public that the firm is professionally accountable and adheres to RICS standards."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "What does CPD stand for in the context of RICS membership?",
+      "options": [
+        "Certified Project Delivery",
+        "Continuing Professional Development",
+        "Chartered Practice Directive",
+        "Construction Planning Division"
+      ],
+      "answer": "Continuing Professional Development",
+      "explanation": "CPD refers to Continuing Professional Development, which ensures professionals keep their skills and knowledge up to date."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "How many hours of CPD must an RICS member complete annually?",
+      "options": [
+        "10 hours",
+        "20 hours",
+        "30 hours",
+        "50 hours"
+      ],
+      "answer": "20 hours",
+      "explanation": "All RICS members must complete at least 20 hours of CPD each calendar year."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "How many of the required annual CPD hours must be formal learning?",
+      "options": [
+        "None",
+        "5 hours",
+        "10 hours",
+        "15 hours"
+      ],
+      "answer": "10 hours",
+      "explanation": "At least 10 of the 20 required hours must be formal, structured learning."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "What is an example of informal CPD activity?",
+      "options": [
+        "Attending an RICS-approved seminar",
+        "Watching a relevant YouTube video on your own",
+        "Completing an online assessment",
+        "Attending a university lecture"
+      ],
+      "answer": "Watching a relevant YouTube video on your own",
+      "explanation": "Informal CPD includes self-directed learning such as reading or watching educational content."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "What may happen if a member fails to comply with CPD requirements?",
+      "options": [
+        "They are fined by HMRC",
+        "They lose access to RICS newsletters",
+        "They may face disciplinary action",
+        "They must pay a late fee"
+      ],
+      "answer": "They may face disciplinary action",
+      "explanation": "Failure to comply with CPD requirements can lead to disciplinary action, including suspension."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "When must CPD records be submitted to RICS if requested?",
+      "options": [
+        "Within 12 months",
+        "By the end of the decade",
+        "Only after a promotion",
+        "Promptly, if selected for audit"
+      ],
+      "answer": "Promptly, if selected for audit",
+      "explanation": "Members must submit records promptly when RICS requests them, particularly during random audits."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "Which of the following would not count as valid CPD?",
+      "options": [
+        "Learning about changes in industry legislation",
+        "Reading a construction contract for your job",
+        "Watching a documentary on architecture",
+        "Studying relevant sustainability standards"
+      ],
+      "answer": "Reading a construction contract for your job",
+      "explanation": "Routine work activities are not considered CPD unless they involve new learning."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "Who is responsible for ensuring CPD is completed and recorded?",
+      "options": [
+        "Your HR department",
+        "Your employer",
+        "The RICS regional office",
+        "You, as an individual member"
+      ],
+      "answer": "You, as an individual member",
+      "explanation": "Each RICS member is personally responsible for completing and recording their CPD."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "Which of the following best describes the aim of CPD?",
+      "options": [
+        "To increase client fees",
+        "To keep professionals current, competent, and compliant",
+        "To train junior staff only",
+        "To pass the APC"
+      ],
+      "answer": "To keep professionals current, competent, and compliant",
+      "explanation": "CPD ensures members remain capable and knowledgeable in a changing professional environment."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "Where should RICS members log their CPD activities?",
+      "options": [
+        "In their company\u2019s finance system",
+        "In a personal spreadsheet",
+        "On the RICS CPD portal or online log",
+        "On LinkedIn"
+      ],
+      "answer": "On the RICS CPD portal or online log",
+      "explanation": "RICS provides an online platform where members must log their CPD activities for tracking and audit purposes."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "When is it appropriate for an RICS member to accept a gift from a supplier?",
+      "options": [
+        "Always, if under \u00a3100",
+        "Only if it cannot be seen to influence decision-making",
+        "Whenever it is offered politely",
+        "If the supplier insists"
+      ],
+      "answer": "Only if it cannot be seen to influence decision-making",
+      "explanation": "Gifts can be accepted only if they do not create a conflict of interest or the perception of bias."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "You are offered theatre tickets by a contractor currently bidding on a project. What should you do?",
+      "options": [
+        "Accept to maintain the relationship",
+        "Decline and report the offer",
+        "Accept and inform your manager afterwards",
+        "Give the tickets to a colleague"
+      ],
+      "answer": "Decline and report the offer",
+      "explanation": "Accepting hospitality during procurement may create a conflict of interest and should be reported."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "What is the main risk of accepting gifts or hospitality in a professional role?",
+      "options": [
+        "Time spent attending events",
+        "Creating unfair competition",
+        "Damaging public trust and professional integrity",
+        "Making the client jealous"
+      ],
+      "answer": "Damaging public trust and professional integrity",
+      "explanation": "Accepting inappropriate gifts can undermine trust and professional objectivity."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "A client sends you a luxury hamper at Christmas. What\u2019s the best course of action?",
+      "options": [
+        "Accept and say thank you",
+        "Keep it at home",
+        "Declare it in the company gift register and seek advice",
+        "Decline all gifts without exception"
+      ],
+      "answer": "Declare it in the company gift register and seek advice",
+      "explanation": "High-value gifts should be declared and reviewed in accordance with your firm's policy."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "Which document gives guidance on handling gifts and hospitality for RICS members?",
+      "options": [
+        "RICS Red Book",
+        "Code of Measuring Practice",
+        "RICS Rules of Conduct",
+        "Government Ethics Policy"
+      ],
+      "answer": "RICS Rules of Conduct",
+      "explanation": "The Rules of Conduct outline expected ethical behaviour, including around gifts and hospitality."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "You attend a client dinner paid for by the host. When should this be reported?",
+      "options": [
+        "Only if the food was expensive",
+        "If required by your firm's policy",
+        "Always, no matter the cost",
+        "Never \u2014 dinners are exempt"
+      ],
+      "answer": "If required by your firm's policy",
+      "explanation": "Each firm has its own policy on reporting hospitality; members must follow it."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "What is a key factor in deciding whether hospitality is acceptable?",
+      "options": [
+        "How long the relationship has lasted",
+        "Whether it is common in your industry",
+        "Whether it could influence your independence or objectivity",
+        "The seniority of the person offering"
+      ],
+      "answer": "Whether it could influence your independence or objectivity",
+      "explanation": "Any hospitality that may compromise or appear to compromise impartiality is a risk."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "Who should you speak to if unsure whether to accept a gift?",
+      "options": [
+        "The person offering it",
+        "Your colleague",
+        "Your line manager or compliance contact",
+        "The gift recipient at another company"
+      ],
+      "answer": "Your line manager or compliance contact",
+      "explanation": "Ethical concerns should be discussed with a manager or compliance officer."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "A supplier regularly sends you small promotional items. What is the best practice?",
+      "options": [
+        "Keep them \u2014 they are low in value",
+        "Accept and don\u2019t mention it",
+        "Return them immediately",
+        "Declare them and follow internal policy"
+      ],
+      "answer": "Declare them and follow internal policy",
+      "explanation": "Even small, repeated gifts may be inappropriate \u2014 they should be declared and evaluated."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "Which of the following is an acceptable form of hospitality?",
+      "options": [
+        "An expensive overseas trip before a tender decision",
+        "A small, reasonable lunch after contract completion",
+        "A luxury watch during negotiations",
+        "A holiday voucher for project success"
+      ],
+      "answer": "A small, reasonable lunch after contract completion",
+      "explanation": "Modest hospitality that does not influence professional judgement may be acceptable post-project."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "What legislation governs bribery in the UK?",
+      "options": [
+        "Bribery Prevention Act 1998",
+        "UK Financial Conduct Code",
+        "Bribery Act 2010",
+        "Public Integrity Act 2005"
+      ],
+      "answer": "Bribery Act 2010",
+      "explanation": "The Bribery Act 2010 sets out the main legal framework for dealing with bribery offences in the UK."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "Which of the following is an example of a bribe?",
+      "options": [
+        "A thank-you email",
+        "A handshake",
+        "A payment offered to win a contract",
+        "Submitting a tender"
+      ],
+      "answer": "A payment offered to win a contract",
+      "explanation": "Any payment or advantage offered to influence a professional decision is considered a bribe."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "What is money laundering?",
+      "options": [
+        "Cleaning coins and notes",
+        "Deliberately underquoting",
+        "Hiding the origin of illegally obtained money",
+        "Saving money in offshore accounts"
+      ],
+      "answer": "Hiding the origin of illegally obtained money",
+      "explanation": "Money laundering involves disguising the origins of criminal funds to make them appear legitimate."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "Which of the following would be a red flag for money laundering?",
+      "options": [
+        "Payments in regular instalments",
+        "Client pays in cash without a clear reason",
+        "Using bank transfer with ID",
+        "A client asking about VAT"
+      ],
+      "answer": "Client pays in cash without a clear reason",
+      "explanation": "Unusual cash payments, particularly large ones, are a common red flag."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "What is a key responsibility of RICS members in relation to bribery?",
+      "options": [
+        "Report it to their local council",
+        "Ignore it unless it involves a client",
+        "Avoid and report any suspected bribery",
+        "Ask a colleague to handle it"
+      ],
+      "answer": "Avoid and report any suspected bribery",
+      "explanation": "Professionals have a duty to avoid involvement in bribery and report suspicions."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "A subcontractor offers you a reward for putting them on a shortlist. What should you do?",
+      "options": [
+        "Accept and thank them",
+        "Decline and report the incident",
+        "Pass it on to another colleague",
+        "Ignore unless they follow through"
+      ],
+      "answer": "Decline and report the incident",
+      "explanation": "Accepting rewards in exchange for favourable treatment may be bribery."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "What body can investigate money laundering in the UK construction sector?",
+      "options": [
+        "RICS only",
+        "The RIBA",
+        "The National Crime Agency (NCA)",
+        "Local Planning Authority"
+      ],
+      "answer": "The National Crime Agency (NCA)",
+      "explanation": "The NCA investigates serious organised crime, including money laundering."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "What is the maximum penalty for a bribery offence under UK law?",
+      "options": [
+        "\u00a310,000 fine",
+        "6-month suspension from RICS",
+        "Unlimited fine and up to 10 years\u2019 imprisonment",
+        "Public apology and CPD training"
+      ],
+      "answer": "Unlimited fine and up to 10 years\u2019 imprisonment",
+      "explanation": "Bribery is a criminal offence punishable by unlimited fine and up to 10 years imprisonment."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "When should a Suspicious Activity Report (SAR) be submitted?",
+      "options": [
+        "After client feedback",
+        "If there are reasonable grounds to suspect criminal activity",
+        "Only if approved by the firm\u2019s director",
+        "When reporting CPD"
+      ],
+      "answer": "If there are reasonable grounds to suspect criminal activity",
+      "explanation": "SARs are submitted to authorities when there are grounds for suspicion of financial crime."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "What is the RICS stance on corruption?",
+      "options": [
+        "Avoid it only in public sector work",
+        "Discourage it where possible",
+        "Zero tolerance under any circumstances",
+        "Accept low-level corruption internationally"
+      ],
+      "answer": "Zero tolerance under any circumstances",
+      "explanation": "RICS has zero-tolerance for bribery and corruption."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "What does \u201cmodern slavery\u201d typically include?",
+      "options": [
+        "Only underpayment of wages",
+        "Illegal construction work",
+        "Forced labour, human trafficking, and exploitation",
+        "Late completion of contracts"
+      ],
+      "answer": "Forced labour, human trafficking, and exploitation",
+      "explanation": "Modern slavery includes practices such as forced labour, bonded labour, and exploitation."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "What UK legislation requires certain businesses to report on modern slavery risks?",
+      "options": [
+        "Equality Act 2010",
+        "Human Rights Act 1998",
+        "Modern Slavery Act 2015",
+        "Workers Protection Act 2020"
+      ],
+      "answer": "Modern Slavery Act 2015",
+      "explanation": "The Modern Slavery Act 2015 mandates annual transparency statements from qualifying organisations."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "Which of the following would be a red flag for modern slavery on a construction site?",
+      "options": [
+        "Late arrival of workers",
+        "Workers sharing protective gear",
+        "Workers afraid to speak or without contracts",
+        "Use of recycled materials"
+      ],
+      "answer": "Workers afraid to speak or without contracts",
+      "explanation": "Fearfulness, lack of contracts, and restricted movement may indicate exploitation."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "What is an RICS member\u2019s duty if they suspect modern slavery in a project?",
+      "options": [
+        "Keep quiet until confirmation",
+        "Raise the issue internally and follow procedures",
+        "Discuss it with the site manager only",
+        "Wait for the annual audit"
+      ],
+      "answer": "Raise the issue internally and follow procedures",
+      "explanation": "Concerns must be reported through appropriate channels."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "How often must companies over a certain turnover publish a Modern Slavery Statement under UK law?",
+      "options": [
+        "Monthly",
+        "Biannually",
+        "Annually",
+        "Every five years"
+      ],
+      "answer": "Annually",
+      "explanation": "Firms over \u00a336m turnover must publish an annual statement."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "What is the purpose of a Modern Slavery Statement?",
+      "options": [
+        "To advertise working conditions",
+        "To meet planning requirements",
+        "To set out steps taken to prevent slavery in operations and supply chains",
+        "To replace health and safety policies"
+      ],
+      "answer": "To set out steps taken to prevent slavery in operations and supply chains",
+      "explanation": "The statement shows how the firm addresses slavery risks."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "Who is at greatest risk of modern slavery in construction?",
+      "options": [
+        "Senior managers",
+        "Regulated surveyors",
+        "Migrant workers and temporary labourers",
+        "Office staff"
+      ],
+      "answer": "Migrant workers and temporary labourers",
+      "explanation": "Vulnerable groups such as migrant workers are more at risk."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "How can firms help prevent modern slavery in their supply chain?",
+      "options": [
+        "Avoid hiring subcontractors",
+        "Only use the same suppliers each year",
+        "Conduct due diligence and audit suppliers",
+        "Reduce procurement times"
+      ],
+      "answer": "Conduct due diligence and audit suppliers",
+      "explanation": "Regular checks and audits reduce slavery risks."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "Which RICS principle is most closely linked to preventing modern slavery?",
+      "options": [
+        "Innovation",
+        "Efficiency",
+        "Respect",
+        "Obedience"
+      ],
+      "answer": "Respect",
+      "explanation": "Respect includes upholding dignity and human rights."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "What is the key challenge in identifying modern slavery?",
+      "options": [
+        "It is rare in the UK",
+        "It only affects certain sectors",
+        "It is often hidden and victims may not come forward",
+        "It only occurs abroad"
+      ],
+      "answer": "It is often hidden and victims may not come forward",
+      "explanation": "Modern slavery is hard to detect due to its hidden nature."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "What is the purpose of Professional Indemnity Insurance (PII)?",
+      "options": [
+        "To cover property damage on site",
+        "To protect professionals from claims of negligence or breach of duty",
+        "To insure company vehicles",
+        "To guarantee payment to subcontractors"
+      ],
+      "answer": "To protect professionals from claims of negligence or breach of duty",
+      "explanation": "PII protects professionals against legal costs and damages resulting from alleged errors or omissions."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "Is PII mandatory for RICS-regulated firms?",
+      "options": [
+        "Only for international firms",
+        "Yes, it is a requirement",
+        "No, it is optional",
+        "Only for chartered surveyors"
+      ],
+      "answer": "Yes, it is a requirement",
+      "explanation": "All RICS-regulated firms must hold adequate and appropriate PII."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "What must a firm do if its PII coverage lapses?",
+      "options": [
+        "Notify RICS immediately",
+        "Do nothing if there are no claims",
+        "Reduce their workload",
+        "Close the business"
+      ],
+      "answer": "Notify RICS immediately",
+      "explanation": "Any lapse in PII must be reported to RICS."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "What is a \u201crun-off\u201d policy in relation to PII?",
+      "options": [
+        "A temporary cover for overseas work",
+        "Insurance for retired professionals or closed firms",
+        "A bonus feature of PII",
+        "Coverage for travel insurance"
+      ],
+      "answer": "Insurance for retired professionals or closed firms",
+      "explanation": "Run-off cover protects work after retirement or closure."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "What must RICS firms ensure about their PII policy provider?",
+      "options": [
+        "The insurer is based in the UK",
+        "The insurer is RICS-approved or meets RICS requirements",
+        "The insurer offers cheap premiums",
+        "The insurer is owned by the firm"
+      ],
+      "answer": "The insurer is RICS-approved or meets RICS requirements",
+      "explanation": "Insurers must meet RICS\u2019s policy standards."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "How long should a run-off PII policy typically be maintained?",
+      "options": [
+        "One year",
+        "Five years",
+        "Six years or more",
+        "Indefinitely"
+      ],
+      "answer": "Six years or more",
+      "explanation": "RICS recommends a minimum of six years\u2019 cover."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "What is the main risk of practising without valid PII?",
+      "options": [
+        "Fewer clients",
+        "No access to CPD",
+        "Financial and reputational damage from uncovered claims",
+        "Delays in project handover"
+      ],
+      "answer": "Financial and reputational damage from uncovered claims",
+      "explanation": "Without PII, you are exposed to full liability."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "What does a PII policy typically not cover?",
+      "options": [
+        "Errors in professional advice",
+        "Deliberate acts of dishonesty or fraud",
+        "Breaches of duty",
+        "Omissions in service delivery"
+      ],
+      "answer": "Deliberate acts of dishonesty or fraud",
+      "explanation": "PII excludes deliberate or criminal acts."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "Which document sets out the RICS requirements for PII?",
+      "options": [
+        "RICS Practice Management Guide",
+        "PII Guidance Note and Minimum Policy Wording",
+        "APC Candidate Guide",
+        "Health & Safety Manual"
+      ],
+      "answer": "PII Guidance Note and Minimum Policy Wording",
+      "explanation": "The PII Guidance Note outlines RICS\u2019s insurance standards."
+    },
+    {
+      "competence": "Ethics, Rules of conduct and Professionalism",
+      "level": "1",
+      "question": "When applying for PII, what information is commonly required by the insurer?",
+      "options": [
+        "Staff holiday rota",
+        "The firm\u2019s marketing budget",
+        "Details of services, claims history, and turnover",
+        "Client feedback reports"
+      ],
+      "answer": "Details of services, claims history, and turnover",
+      "explanation": "Insurers assess services, turnover, and claims history."
+    }
+  ]
+}
