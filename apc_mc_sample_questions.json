@@ -1,0 +1,58 @@
+{
+  "ethics": [
+    {
+      "competence": "Ethics, Rules of Conduct and Professionalism",
+      "level": "1",
+      "question": "Which of the following is a core RICS ethical principle?",
+      "options": [
+        "Innovation",
+        "Integrity",
+        "Leadership",
+        "Efficiency"
+      ],
+      "answer": "Integrity",
+      "explanation": "Integrity is one of the five core principles set out in the RICS Rules of Conduct."
+    },
+    {
+      "competence": "Ethics, Rules of Conduct and Professionalism",
+      "level": "1",
+      "question": "What is the consequence of a serious breach of RICS ethical standards?",
+      "options": [
+        "Verbal warning",
+        "Automatic promotion",
+        "Disciplinary proceedings",
+        "Exemption from CPD"
+      ],
+      "answer": "Disciplinary proceedings",
+      "explanation": "Serious breaches can result in formal disciplinary procedures under RICS regulations."
+    }
+  ],
+  "client_care": [
+    {
+      "competence": "Client Care",
+      "level": "1",
+      "question": "Why is it important to agree a scope of services in writing?",
+      "options": [
+        "To avoid phone calls",
+        "For marketing purposes",
+        "To manage expectations",
+        "To increase costs"
+      ],
+      "answer": "To manage expectations",
+      "explanation": "A written scope of service clarifies responsibilities and reduces the risk of misunderstanding or conflict."
+    },
+    {
+      "competence": "Client Care",
+      "level": "1",
+      "question": "What is the RICS requirement in handling formal complaints?",
+      "options": [
+        "No requirement",
+        "Keep complaints private",
+        "Formal written complaints procedure",
+        "Always refer to court"
+      ],
+      "answer": "Formal written complaints procedure",
+      "explanation": "All RICS-regulated firms must operate a formal complaints handling procedure, including access to independent redress."
+    }
+  ]
+}
